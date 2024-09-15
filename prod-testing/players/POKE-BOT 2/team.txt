@@ -1,16 +1,54 @@
-Clefable @ Assault Vest  
-Ability: Cute Charm  
-EVs: 76 HP  
-- Blizzard  
-- Aromatherapy  
-- Body Slam  
-- Brick Break  
+Tyranitar @ Smooth Rock  
+Ability: Sand Stream  
+EVs: 124 HP / 252 Atk / 132 Spe  
+Adamant Nature  
+- Crunch  
+- Earthquake  
+- Stone Edge  
+- Stealth Rock  
 
-Charizard-Mega-Y @ Charizardite Y  
-Ability: Blaze  
-EVs: 56 Atk  
-- Ancient Power  
-- Air Slash  
-- Body Slam  
-- Brick Break  
+Excadrill @ Air Balloon  
+Ability: Sand Rush  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Earthquake  
+- Iron Head  
+- Rock Slide  
 
+Volcanion @ Choice Specs  
+Ability: Water Absorb  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk / 30 SpA  
+- Steam Eruption  
+- Flamethrower  
+- Sludge Bomb  
+- Hidden Power [Grass]  
+
+Azumarill @ Sitrus Berry  
+Ability: Huge Power  
+EVs: 252 HP / 252 Atk / 4 Spe  
+Adamant Nature  
+- Belly Drum  
+- Aqua Jet  
+
+Latios (M) @ Life Orb  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Ice Beam  
+- Psychic  
+- Thunderbolt  
+
+Serperior @ Choice Scarf  
+Ability: Contrary  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Leaf Storm  
+- Energy Ball  
+- Glare  
+- Toxic  
